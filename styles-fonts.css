@@ -1,46 +1,54 @@
 
-.font-audiowide {
-    font-family: 'Audiowide', sans-serif;
-    color: #152c6b;
+.dosis-200 {
+  font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 25px;
+
 }
 
-.font-are-you-serious {
-    font-family: 'Are You Serious', handwriting;
-    font-size: 50px;
-    color: #dd419c;
+.amatic-sc-regular {
+    font-family: "Amatic SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+
+  }
+  
+  .amatic-sc-bold {
+    font-family: "Amatic SC", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+
+  }
+  
+.teko-300 {
+  font-family: "Teko", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 25px;
 }
 
-.font-annie-use-your-telescope {
-    font-family: 'Annie Use Your Telescope', handwriting;
-    font-size: 50px;
-    color: #41d69d;
+.doto-300 {
+  font-family: "Doto", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+  font-size: 25px;
+
 }
 
-.font-akronim {
-    font-family: 'Akronim', display;
-    font-size: 50px;
-    color: #abe91a;
+.sour-gummy-500 {
+  font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;
+  font-size: 25px;
+  font-variation-settings:
+    "wdth" 100;
 }
-
-.font-leckerli-one {
-    font-family: 'Leckerli One', handwriting;
-    font-size: 50px;
-    color: #c21045d0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
