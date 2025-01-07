@@ -1,10 +1,9 @@
-
 .dosis-200 {
-  font-family: "Dosis", serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
-  font-size: 25px;
+    font-family: "Dosis", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 25px;
 
 }
 
@@ -14,41 +13,41 @@
     font-style: normal;
     font-size: 25px;
 
-  }
-  
-  .amatic-sc-bold {
+}
+
+.amatic-sc-bold {
     font-family: "Amatic SC", serif;
     font-weight: 700;
     font-style: normal;
     font-size: 25px;
 
-  }
-  
+}
+
 .teko-300 {
-  font-family: "Teko", serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-  font-size: 25px;
+    font-family: "Teko", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
 }
 
 .doto-300 {
-  font-family: "Doto", serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-  font-variation-settings:
-    "ROND" 0;
-  font-size: 25px;
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "ROND" 0;
+    font-size: 35px;
 
 }
 
 .sour-gummy-500 {
-  font-family: "Sour Gummy", serif;
-  font-optical-sizing: auto;
-  font-weight:500;
-  font-style: normal;
-  font-size: 25px;
-  font-variation-settings:
-    "wdth" 100;
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    font-variation-settings:
+        "wdth" 100;
 }
